@@ -16,8 +16,8 @@
     <!-- Bootstrap core CSS -->
     <script src="Jquery/jquery-1.11.0.min.js">
 </script>
-    <link href="Bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <script src = "Bootstrap/js/bootstrap.min.js"> </script>
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <script src = "bootstrap/js/bootstrap.min.js"> </script>
     <link href = "custom.css" rel = "stylesheet">
     <script src = "content.js"> </script> 
 
