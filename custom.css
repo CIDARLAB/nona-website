@@ -1,0 +1,85 @@
+
+.navigation{
+  display: inline-block;
+  width: 19.5%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  cursor: pointer;
+
+}
+
+.navigation:hover{
+  color: #3c70c9;
+
+}
+
+.active{
+  color: #3c70c9;
+}
+
+.image{
+  height:200px;
+  border: solid 3px #aaa;
+  display: inline-block;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom:15px;
+  margin-top: -30px
+}
+
+.logo{
+  height:90px;
+  display: inline-block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+
+}
+
+.auto{
+  display: inline-block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 15px;
+  text-align: center;
+  width: 45%;
+  padding:10px;
+
+}
+.boston{
+  display: inline-block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  width: 20%;
+  padding:10px;
+
+}
+.mit{
+  display: inline-block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 18%;
+  padding:10px;
+
+}
+.cal{
+  display: inline-block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 22%;
+  padding:10px;
+
+}
+
+.broad{
+    display: inline-block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 23%;
+  padding:10px;
+
+
+}
+
