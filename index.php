@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="shortcut icon" href="nona_favicon.png">
-    <link href='http://fonts.googleapis.com/css?family=Carrois+Gothic+SC' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:300,400' rel='stylesheet' type='text/css'>
 
     <title>Nona</title>
 
@@ -23,7 +23,8 @@
 
   </head>
 
-  <body style = "font-family: 'Carrois Gothic SC', sans-serif; color:black;">
+  <body style = "font-family: 'Alegreya Sans SC', sans-serif; color:black;">
+
     <div class="container">
     <div class="row">
         <div class="col-xs-12" style = "padding-top:70px;">
