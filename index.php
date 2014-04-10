@@ -47,10 +47,13 @@
 </div></div>
 
 <div class="row"><div class="col-xs-12" style = "padding-top:30px; text-align:center;padding-bottom:50px;">
-<hr><p>Nona is a part of the BioDesign Automation Consortium Network</p><img style = "display:inline-block; margin-left:10px;margin-right:auto;height:100px;" src = "BDAC_Logo_Small.png"><a href = "cidarlab.org">
+<hr><p>Nona is a part of the BioDesign Automation Consortium Network</p>
+<a href = "http://nsf.gov/"><img style = "display:inline-block; margin-left:10px;margin-right:auto;height:100px;" src = "nsflogo.jpg"></a>
+<a href = "http://biodac.herokuapp.com"><img style = "display:inline-block; margin-left:10px;margin-right:auto;height:100px;" src = "BDAC_Logo_Small.png"><a href = "http://cidarlab.org">
 <img style = "display:inline-block; margin-left:auto;margin-right:auto;"src = "cidar.png"></a><img style = "display:inline-block; margin-left:auto;margin-right:auto;height:40px;padding-left:0px;" src = "logo-4.jpg"><br>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
-<p>Created by F. Carter Wheatley -- fwheat@bu.edu</p>
+<p>The Nona Research Foundation is supported by <a href = "http://nsf.gov/awardsearch/showAward?AWD_ID=1147158">NSF Grant 1147158</a></p>
+<p style = "margin-top:-10px;">Site developed by <a href = "http://fcarterwheatley.com">F. Carter Wheatley</a></p>
 </div></div>
 
 
