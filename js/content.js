@@ -28,7 +28,7 @@
   console.log("Loaded sponsors");
 });
 
-                $contact.load("contant.html",function() {
+                $contact.load("contact.html",function() {
   console.log("Loaded contact");
 });
 
