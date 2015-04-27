@@ -37,6 +37,10 @@
 
 }
 
+.enlarge{
+  height: 110px;
+}
+
 .auto{
   display: inline-block;
   margin-right: auto;
